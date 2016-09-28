@@ -1,0 +1,127 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    font: 100% Courier,
+    line-height: 1.6;
+    background-color:powderblue;
+}
+h1 {
+    font-family: courier;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: normal;
+    margin: 1em 0 .4em;
+    color:orange;
+}
+h2 {
+    font-family: courier;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    margin: 1em 0 .4em;
+}
+h3 {
+    font-family: courier;
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal;
+    margin: 1em 0 .4em;
+}
+h4 {
+    font-family: courier;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: normal;
+    margin: 1em 0 .4em;
+}
+h5 {
+    font-family: courier;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: normal;
+    margin: 1em 0 .4em;
+}
+h6 {
+    font-family: courier;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: normal;
+    margin: 1em 0 .4em;
+}
+h7 {
+    font-family: courier;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: normal;
+    margin: 1em 0 .4em;
+}
+p {
+    font-family: courier;
+    line-height: 1.5;
+    text-align: justify;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 1em;
+    color:red;
+}
+p.a {
+    font-family: courier;
+    line-height: 1.5;
+    text-align: justify;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 0em;
+    color:green;
+    font-size: 5em;
+    background-color: powderblue;
+}
+blockquote {
+    margin-left: 3em;
+    margin-right: 3em;
+    font-style: normal;
+    color: blue;
+}
+img {
+    width:600px;
+    height:310px;
+}
+.foo {
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin: 0px;
+    border: 0px solid rgba(0, 0, 0, .2);
+}
+
+.a {
+    background: #FFFFFF;
+}
+.b {
+    background: #DFDFDF;
+}
+.c {
+    background: #BFBFBF;
+}
+.d {
+    background: #9F9F9F;
+}
+.e {
+    background: #7F7F7F;
+}
+.f {
+    background: #5F5F5F;
+}
+.g {
+    background: #3F3F3F;
+}
+.h {
+    background: #1F1F1F;
+}
+.i {
+    background: #030303;
+}
+.j {
+    background: #000000;
+}
+
+
